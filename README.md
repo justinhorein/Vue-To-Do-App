@@ -1,5 +1,4 @@
-# moz-todo-app
-
+# Vue-To-Do-App
 ## Project setup
 ```
 npm install
