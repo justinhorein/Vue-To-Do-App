@@ -1,4 +1,7 @@
 # Vue-To-Do-App
+
+A super smooth to-do-list app created with the Vue JS Framework.
+
 ## Project setup
 ```
 npm install
