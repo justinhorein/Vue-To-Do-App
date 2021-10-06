@@ -1,6 +1,6 @@
 # Vue-To-Do-App
 
-A super smooth to-do-list app created with the Vue JS Framework.
+A super smooth to-do-list app created with the Vue JS Framework.  I gained experience with Vue specific features while building this, including: Single File Components, V Bindings, Computed Properties, Lifecycle Methods, and Conditional Rendering (Super Handy!).
 
 ## Project setup
 ```
